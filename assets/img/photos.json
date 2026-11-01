@@ -1,0 +1,152 @@
+{
+ "seaweed-wrap": {
+  "w": 632,
+  "h": 553,
+  "ratio": 1.143,
+  "orientation": "square",
+  "files": {
+   "480": "seaweed-wrap-480.jpg",
+   "600": "seaweed-wrap-600.jpg"
+  },
+  "avg": "#7b6441",
+  "palette": [
+   "#5e5a09",
+   "#493b10",
+   "#4e3420",
+   "#dba584"
+  ],
+  "light": 0.37,
+  "source": "seaweed-wrap.png"
+ },
+ "moisture-firming": {
+  "w": 614,
+  "h": 525,
+  "ratio": 1.17,
+  "orientation": "landscape",
+  "files": {
+   "480": "moisture-firming-480.jpg",
+   "600": "moisture-firming-600.jpg"
+  },
+  "avg": "#bb9375",
+  "palette": [
+   "#e0b89d",
+   "#b87c51",
+   "#7b4621",
+   "#4f4e12"
+  ],
+  "light": 0.59,
+  "source": "moisture-firming.png"
+ },
+ "citrus-peeling": {
+  "w": 606,
+  "h": 518,
+  "ratio": 1.17,
+  "orientation": "landscape",
+  "files": {
+   "480": "citrus-peeling-480.jpg",
+   "600": "citrus-peeling-600.jpg"
+  },
+  "avg": "#db9f58",
+  "palette": [
+   "#eb9e21",
+   "#f4c877",
+   "#e4ab7f",
+   "#c66f29"
+  ],
+  "light": 0.6,
+  "source": "citrus-peeling.png"
+ },
+ "vanilla-peeling": {
+  "w": 632,
+  "h": 552,
+  "ratio": 1.145,
+  "orientation": "square",
+  "files": {
+   "480": "vanilla-peeling-480.jpg",
+   "600": "vanilla-peeling-600.jpg"
+  },
+  "avg": "#ba9c76",
+  "palette": [
+   "#efc689",
+   "#d89036",
+   "#613514",
+   "#e0c6b1"
+  ],
+  "light": 0.6,
+  "source": "vanilla-peeling.png"
+ },
+ "herbal-relax-materials": {
+  "w": 600,
+  "h": 306,
+  "ratio": 1.961,
+  "orientation": "landscape",
+  "files": {
+   "480": "herbal-relax-materials-480.jpg",
+   "600": "herbal-relax-materials-600.jpg"
+  },
+  "avg": "#9e7d56",
+  "palette": [
+   "#595c08",
+   "#7b4e0c",
+   "#d78c18",
+   "#f3d193"
+  ],
+  "light": 0.48,
+  "source": "herbal-relax-materials.png"
+ },
+ "herbal-relax-treatment": {
+  "w": 558,
+  "h": 138,
+  "ratio": 4.043,
+  "orientation": "landscape",
+  "files": {
+   "480": "herbal-relax-treatment-480.jpg"
+  },
+  "avg": "#9c6d46",
+  "palette": [
+   "#f2b188",
+   "#613412",
+   "#7a4c0c",
+   "#dc961f"
+  ],
+  "light": 0.44,
+  "source": "herbal-relax-treatment.png"
+ },
+ "vitamin-boost-materials": {
+  "w": 628,
+  "h": 332,
+  "ratio": 1.892,
+  "orientation": "landscape",
+  "files": {
+   "480": "vitamin-boost-materials-480.jpg",
+   "600": "vitamin-boost-materials-600.jpg"
+  },
+  "avg": "#a09072",
+  "palette": [
+   "#eed5a3",
+   "#f9ead3",
+   "#62630f",
+   "#604113"
+  ],
+  "light": 0.54,
+  "source": "vitamin-boost-materials.png"
+ },
+ "vitamin-boost-treatment": {
+  "w": 560,
+  "h": 168,
+  "ratio": 3.333,
+  "orientation": "landscape",
+  "files": {
+   "480": "vitamin-boost-treatment-480.jpg"
+  },
+  "avg": "#9f704d",
+  "palette": [
+   "#ecb28b",
+   "#6e3d1a",
+   "#c27541",
+   "#634a13"
+  ],
+  "light": 0.46,
+  "source": "vitamin-boost-treatment.png"
+ }
+}
